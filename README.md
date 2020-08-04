@@ -4,5 +4,5 @@ YBOT은 오픈소스로 진행되는 프로젝트가 아니기 때문에 문서�
 
 해당 레포스트리는 아래의 문서를 관여합니다.
 * 개인정보처리방침([privacy.md](privacy.md))
-* 가이드라인(guildline.md)
+* 가이드라인([terms.md](terms.md))
 * 사용법(command.md)
